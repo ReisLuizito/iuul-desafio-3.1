@@ -1,0 +1,27 @@
+{
+    "development": {
+      "username": "seu_usuario",
+      "password": "sua_senha",
+      "database": "clinica_odontologica",
+      "host": "127.0.0.1",
+      "port": 5432,
+      "dialect": "postgres"
+    },
+    "test": {
+      "username": "seu_usuario",
+      "password": "sua_senha",
+      "database": "clinica_odontologica_test",
+      "host": "127.0.0.1",
+      "port": 5432,
+      "dialect": "postgres"
+    },
+    "production": {
+      "username": "seu_usuario",
+      "password": "sua_senha",
+      "database": "clinica_odontologica_prod",
+      "host": "127.0.0.1",
+      "port": 5432,
+      "dialect": "postgres"
+    }
+  }
+  
